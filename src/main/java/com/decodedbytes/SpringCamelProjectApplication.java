@@ -1,4 +1,4 @@
-package com.sudoku.spring_camel_project;
+package com.decodedbytes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
